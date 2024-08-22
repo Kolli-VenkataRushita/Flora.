@@ -10,9 +10,7 @@
   - [Steps to Install XAMPP](#steps-to-install-xampp)
   - [Connecting to the Database](#connecting-to-the-database)
 - [Running the Project](#running-the-project)
-- [License](#license)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Features
 
