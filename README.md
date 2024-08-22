@@ -76,7 +76,3 @@
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request, or open an issue for any bugs or feature requests.
-
-## Contact
-
-For questions or support, please contact [Your Name] at [Your Email].
